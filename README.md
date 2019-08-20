@@ -45,7 +45,7 @@ git clone https://github.com/nvie/vim-flake8
 * switching panes for vsplit : (ctrl+w, l/h) or (ctrl+w x2)
 * nerd-tree : t : open new tab, T : open new tab silently, s : open in vsplit
 * ctrl+w : delete word in insert mode
-* ctrl+o : to enter a normal mode command in insert mode without switching back and forth between insert mode and normal mode. example, ctrl+o dd deletes a line in insert mode without mode switching
+* ctrl+o : from insert mode go to normal mode for one command
 
 ### helpful tutorials
 * [vim tutorial](https://danielmiessler.com/study/vim/)
