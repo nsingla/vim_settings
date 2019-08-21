@@ -17,11 +17,11 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 ```bash
 cd ~/.vim/bundle
-git clone https://github.com/scrooloose/syntastic
-git clone https://github.com/scrooloose/nerdtree
-git clone https://github.com/joshdick/onedark.vim
-git clone https://github.com/tpope/vim-fugitive
-git clone https://github.com/vim-scripts/delimitMate.vim
+git clone https://github.com/scrooloose/syntastic && \
+git clone https://github.com/scrooloose/nerdtree && \
+git clone https://github.com/joshdick/onedark.vim && \
+git clone https://github.com/tpope/vim-fugitive && \
+git clone https://github.com/vim-scripts/delimitMate.vim 
 ```
 
 ### python packages
@@ -30,7 +30,7 @@ git clone https://github.com/vim-scripts/delimitMate.vim
 
 ```bash
 cd ~./vim/bundle
-git clone https://github.com/davidhalter/jedi-vim
+git clone https://github.com/davidhalter/jedi-vim && \
 git clone https://github.com/nvie/vim-flake8
 ```
 
