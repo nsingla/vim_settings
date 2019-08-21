@@ -16,7 +16,7 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 5. [delimitMate](https://github.com/Raimondi/delimitMate) : auto-balacing, explansions for parentheses, quotes etc.
 
 ```bash
-cd ~/.vim/bundle
+cd ~/.vim/bundle && \
 git clone https://github.com/scrooloose/syntastic && \
 git clone https://github.com/scrooloose/nerdtree && \
 git clone https://github.com/joshdick/onedark.vim && \
@@ -29,7 +29,7 @@ git clone https://github.com/vim-scripts/delimitMate.vim
 2. [vim-flake8](https://github.com/nvie/vim-flake8) : syntax and style checker for python
 
 ```bash
-cd ~./vim/bundle
+cd ~./vim/bundle && \
 git clone https://github.com/davidhalter/jedi-vim && \
 git clone https://github.com/nvie/vim-flake8
 ```
