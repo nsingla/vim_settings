@@ -34,6 +34,11 @@ git clone https://github.com/davidhalter/jedi-vim && \
 git clone https://github.com/nvie/vim-flake8
 ```
 
+The first thing you need after that is an up-to-date version of Jedi. Install
+``git submodule update --init --recursive`` in your jedi-vim repository.
+
+additionally:
+* pip install jedi
 * please refer to [.vimrc](.vimrc) file for enabling/setting these packages
 
 ### useful commands
