@@ -53,6 +53,7 @@ additionally:
 * ctrl+o : from insert mode go to normal mode for one command
 
 ### helpful tutorials
+* run ```vimtutor``` in your terminal
 * [vim tutorial](https://danielmiessler.com/study/vim/)
 * [grokking vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 * [vim cheatsheet](http://www.fprintf.net/vimCheatSheet.html) 
