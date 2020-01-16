@@ -29,7 +29,7 @@ git clone https://github.com/vim-scripts/delimitMate.vim
 2. [vim-flake8](https://github.com/nvie/vim-flake8) : syntax and style checker for python
 
 ```bash
-cd ~./vim/bundle && \
+cd ~/.vim/bundle && \
 git clone https://github.com/davidhalter/jedi-vim && \
 git clone https://github.com/nvie/vim-flake8
 ```
